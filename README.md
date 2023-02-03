@@ -10,7 +10,7 @@
 iOS3.4：[前往下载](https://oss.mihoyu.cn/d/Onedrive/GenshinImpact/GenshinImpactGC3.4.0.ipa)
 
 
-# 使用方法-仅支持https协议的服务器
+# 使用方法-仅支持https协议端口为443的服务器
 下载安装小火箭-安装并信任小火箭证书-开启https解密-添加以下模块
 
 ```RE
